@@ -1,0 +1,10 @@
+/* Hide bullet point on cupcake list */
+.cupcakes {
+    list-style: none
+}
+
+/* Limit the size of a cupcake image */
+.cupcake-img{
+    width: 200px;
+    /* height: 200px; */
+}
